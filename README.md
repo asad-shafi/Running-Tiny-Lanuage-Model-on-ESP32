@@ -31,3 +31,6 @@ The SynapEdge compiler takes a pre-trained Tiny Language Model in the ONNX forma
 - Arduino IDE
 
 Python 3.8+ (for potential pre-processing scripts)
+
+<a href="https://www.hackster.io/asadshafi5/run-tiny-language-model-on-esp32-8b5dd8"> Visit this Project</a>
+
