@@ -1,5 +1,5 @@
 # Running-Tiny-Lanuage-Model-on-ESP32
-This project demonstrates the deployment of a Tiny Language Model for NLP understanding on an ESP32-S3, compiled using the SynapEdge, proving that sophisticated, responsive AI can run on low-cost, resource-constrained devices entirely offline, enabling a new generation of private, low-latency, and power-efficient applications at the edge.
+This project demonstrates the deployment of a Tiny Language Model for Natural Language understanding on an ESP32-S3, compiled using the SynapEdge, proving that sophisticated, responsive AI can run on low-cost, resource-constrained devices entirely offline, enabling a new generation of private, low-latency, and power-efficient applications at the edge.
 
 ## Model
 I have built a custom Language model and trained it on "noanabeshima/TinyStoriesV2". This was an easily available dataset, so I picked it up for demonstration. I am looking for real-world applications and data sets, such as IoT, Sensor readings, and alerts. If you have such a dataset, please share.
